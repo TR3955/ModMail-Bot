@@ -1,12 +1,12 @@
 module.exports = {
     client: {
         token: '', // ← Your bot token (.env IS RECOMMENDED)
-        id: '' // ← Your bot ID
+        id: '1354494077437219008' // ← Your bot ID
     },
     modmail: {
-        guildId: '', // ← Your server ID
-        categoryId: '', // ← The modmail category ID
-        staffRoles: [''], // ← The modmail staff roles IDs
+        guildId: '1315655498581676052', // ← Your server ID
+        categoryId: '1356682208735133756', // ← The modmail category ID
+        staffRoles: ['1329023423736844329'], // ← The modmail staff roles IDs
         mentionStaffRolesOnNewMail: true // ← Mention staff roles when there is a new mail?
     },
     logs: {
