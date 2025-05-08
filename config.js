@@ -1,6 +1,6 @@
 module.exports = {
     client: {
-        token: '', // ← Your bot token (.env IS RECOMMENDED)
+        token: 'MTM3MDA1MDIwMTUyMzQ1ODEzOA.Gsbtes.Sag0TY1xQpAijzZsTNj9Ep3JiCZX5tg0u_IN0o', // ← Your bot token (.env IS RECOMMENDED)
         id: '1370050201523458138' // ← Your bot ID
     },
     modmail: {
